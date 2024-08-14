@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "2ef1ed98-dec4-483e-9b12-11ec0225e654",
+		"name": "Guest",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37450386"
+	},
+	"item": [
+		{
+			"name": "home",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "ads",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
